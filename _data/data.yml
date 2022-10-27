@@ -64,18 +64,20 @@ education:
 
       - degree: BE in Computer Engineering
         university: Gujarat University
-        time: 2002 - 200,
+        time: 2002 - 2007
         details: GRADUATE LEVEL (Duration- 5 Year)  57.34 % from CITC, Changa
         
 experiences:
     title: Experiences
     info:
+      
       - role: Assistant Professor 
         time: 2014 - 2017
         Institute: Gandhinagar Institute of Technology, Gandhinagar
         details: |
           ∙ Conducting lectures and labs of Degree Engineering Students for the subjects like  Design & Analysis of Algorithm (DAA), Data Structure, C Programming. ∙ Preparing Materials for teaching & utilizing it for Student Progress.
-      - role: Assistant Professor
+     
+     - role: Assistant Professor
         time: 2013 - 2014
         Institute: Mahatma Gandhi Institute Of Technical Education And Research Center, Navsari
         details: |
@@ -84,6 +86,7 @@ experiences:
           ∙ Guiding the students for completing their project works. 
           ∙ Giving Practical knowledge which makes the student’s career progressive. 
           ∙ Coordinating for developing extra co curricular activities like sports, cultural  events, etc for Students. 
+      
       - role: Sr. Lab Technician 
         time: 2007 - 2011
         Institute: V.B. Polytechnic College, Navsari 
@@ -106,19 +109,24 @@ skills:
 
     toolset:
       - name: Python 
-        level: Beginner
+        level: 30%
 
       - name: Javascript & jQuery
-        level: Intermediate
+        level: 70%
 
       - name: Linux
-        level: Beginner
+        level: 45%
 
       - name: HTML5 & CSS
-        level: Advanced
+        level: 80%
 
       - name: Bash Scripting
-        level: Beginner
+        level: 50%
+        
+      - name: PHP
+        level: 50%
+        
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
