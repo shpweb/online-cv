@@ -1,0 +1,124 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Pratiksha Patel
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: pratiksha28785@gmail.com
+    phone: 9998045249
+    timezone: Indian Timezone
+    citizenship: Indian
+    linkedin: Pratiksha Patel
+    github: webaayu
+    twitter: '@pratiksha287'
+  
+    languages:
+      title: Languages
+      info:
+        - idiom: English
+          level: Professional
+
+        - idiom: Hindi
+          level: National language
+
+        - idiom: Gujarati
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Reading
+          link:
+
+        - item: Watching Movies
+          link:
+
+        - item: Cooking
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+            Having 6 years of experience in Academic field for lectures and practical lab.
+            Good Knowledge and Experience of Technical Concepts.
+            Proficient in giving practical knowledge.
+            Understand diversified learning needs of students and providing real time knowledge about technology and new methodologies.
+            Area of Interest: Teaching & Research in Image Processing.
+
+education:
+    title: Education
+    info:
+      - degree: ME in Computer Engineering
+        university: Gujarat Technological University
+        time: 2011 - 2013
+        details:  POST GRADUATE LEVEL (Duration: 2 Year) CPI 7.82 from Birla Vishwakarma Mahavidyalaya, VidyaNagar   |
+        Description: Title : Analysis & Implementation of Audio Watermark in digital image Environment : Implementation in Matlab, Watermarking techniques, which uses audio signal as a watermark signal to  enhance the robustness of the embedded watermark within the cover image. Audio  samples are imperceptibly inserted using spread spectrum technique into the perceptually  most significant components of image which makes it robust to lossy compression.  
+
+      - degree: BE in Computer Engineering
+        university: Gujarat University
+        time: 2002 - 200,
+        details: GRADUATE LEVEL (Duration: 5 Year)  57.34 % from CITC, Changa
+        
+experiences:
+    title: Experiences
+    info:
+      - role: Assistant Professor 
+        time: 2014 - 2017
+        Institute: Gandhinagar Institute of Technology, Gandhinagar
+        details: |
+          ∙ Conducting lectures and labs of Degree Engineering Students for the subjects like  Design & Analysis of Algorithm (DAA), Data Structure, C Programming. ∙ Preparing Materials for teaching & utilizing it for Student Progress.
+      - role: Assistant Professor
+        time: 2013 - 2014
+        Institute: Mahatma Gandhi Institute Of Technical Education And Research Center, Navsari
+        details: |
+          ∙ Conducting lectures and labs of Degree Engineering Students for the subjects like  Design & Analysis of Algorithm (DAA), Compiler Design (CD), C  Programming, etc. 
+          ∙ Planning, evaluating and revise course content, course materials and methods of  instruction. 
+          ∙ Guiding the students for completing their project works. 
+          ∙ Giving Practical knowledge which makes the student’s career progressive. 
+          ∙ Coordinating for developing extra co curricular activities like sports, cultural  events, etc for Students. 
+      - role: Sr. Lab Technician 
+        time: 2007 - 2011
+        Institute: V.B. Polytechnic College, Navsari 
+        details: |
+          ∙ Subjects Taught & Lab Classes: C, C++, Java Programming, Digital Logic Design,  PHP, Entrepreneur Development, Computer Hardware & Networking, Etc. ∙ Worked with Admission Cell Department & Student Information Center of GTU  for Student Admission, Registration, and Counseling. 
+projects:
+    title: Analysis & Implementation of Audio Watermark in digital image Environment  
+    intro: >
+     Implementation in Matlab
+     Watermarking techniques, which uses audio signal as a watermark signal to  enhance the robustness of the embedded watermark within the cover image. Audio  samples are imperceptibly inserted using spread spectrum technique into the perceptually  most significant components of image which makes it robust to lossy compression.  
+
+publications:
+      - journal: International Journal of Advanced and innovative Research
+        title: Analysis and Basic Implementation of Audio Watermark in Digital Image
+        authors: P. S. Patel, Dr. N. M. Patel, Dr. U. K. Jaliya.
+        Journal: IJAIR , Volume 2, Issue 4 April 2013
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python 
+        level: Beginner
+
+      - name: Javascript & jQuery
+        level: Intermediate
+
+      - name: Linux
+        level: Beginner
+
+      - name: HTML5 & CSS
+        level: Advanced
+
+      - name: Bash Scripting
+        level: Beginner
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
